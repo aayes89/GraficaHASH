@@ -1,0 +1,2 @@
+# GraficaHASH
+Grafica un HASH
