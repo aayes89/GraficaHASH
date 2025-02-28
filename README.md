@@ -10,4 +10,5 @@ Muestra de forma gráfica como se ve un HASH en una gráfica de posiciones.
 <b>HASH: 3e4f2a7d9b0c1e8f6d4a3b2c5e1f0d9a</b><br>
 <b>Resultado:<br></b>
 <img src="g1.png"/>
+<img src="g2.png"/>
   
