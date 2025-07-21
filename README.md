@@ -24,4 +24,4 @@ Muestra de forma gráfica como se ve un HASH en un eje de coordenadas a partir d
 <img src="g2.png"/>
   
 # Utilidades
-Por definir aún, aunque debe servir para algo la 1h 30minutos dedicados en hacerlo.
+Por definir aún, aunque debe servir para algo la hora y media dedicada en hacerlo.
