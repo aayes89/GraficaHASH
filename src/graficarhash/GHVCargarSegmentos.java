@@ -219,9 +219,9 @@ public class GHVCargarSegmentos extends javax.swing.JFrame {
     }
 
     void mostrarMensaje(boolean valor, int tipo) {
-        String mensaje = "¡Los datos han sido procesados correctamente!";
-        String mensaje_err = "¡Los datos no pudieron ser procesados correctamente\nRevise los datos de entrada!";
-        String mensaje_err1 = "¡Los datos no pudieron ser procesados correctamente\nRevise que el archivo no esté vacío!";
+        String mensaje = "¡Los datos fueron procesados correctamente!";
+        String mensaje_err = "¡Los datos no fueron procesados correctamente\nRevise los datos de entrada!";
+        String mensaje_err1 = "¡Los datos no fueron procesados correctamente\nRevise que el archivo no esté vacío!";
         if (valor == true) {
             JOptionPane.showMessageDialog(rootPane, mensaje, "Información", JOptionPane.INFORMATION_MESSAGE);
         } else {
